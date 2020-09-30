@@ -1,0 +1,29 @@
+body{
+    font-family: 'Karla', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+#header{
+    width: auto;
+    padding: 30px;
+}
+
+#maintitle{
+    color: hsl(179, 62%, 43%);
+    margin-bottom: 15px;
+    font-weight: 700;
+    font-size: larger;
+}
+
+#subtitle{
+    color : hsl(71, 73%, 54%);
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+#header p{
+    color: hsl(218, 22%, 67%);
+   margin-bottom: 0px;
+    font-size: small;
+}

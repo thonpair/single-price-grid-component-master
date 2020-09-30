@@ -27,3 +27,13 @@ body{
    margin-bottom: 0px;
     font-size: small;
 }
+
+#subscription{
+    background-color: hsl(179, 62%, 43%);
+    width: 400px;
+}
+
+#links{
+    background-color: hsl(175, 62%, 43%);
+    width: 400px;
+}

@@ -84,5 +84,9 @@ body{
 
 #links ul li{
     list-style: none;
-    color: hsl(204, 43%, 93%);
+}
+
+#links ul li a{
+text-decoration: none;
+color: hsl(204, 43%, 93%);
 }
